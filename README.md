@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Atakan13
 - 👀 I’m interested in statistics, data analysis with R, social policy, evidence-based policy 
 - 🌱 I’m currently learning R Programming
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me on twitter.com/atakan_gumusbas 
 
 <!---
